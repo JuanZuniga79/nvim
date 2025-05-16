@@ -1,7 +1,6 @@
 {
   "LuaSnip": { "branch": "master", "commit": "03c8e67eb7293c404845b3982db895d59c0d1538" },
   "auto pairs and closes brackets": { "branch": "main", "commit": "b2077aa2c83df7ebc19b2a20a3a0654b24ae9c8f" },
-  "blink.cmp": { "branch": "main", "commit": "307761556c48a6b4db62674ae4df42e01317d8b7" },
   "bufdelete.nvim": { "branch": "master", "commit": "f6bcea78afb3060b198125256f897040538bcb81" },
   "bufferline.nvim": { "branch": "main", "commit": "655133c3b4c3e5e05ec549b9f8cc2894ac6f51b3" },
   "catppuccin": { "branch": "main", "commit": "1bf070129c0b6f77cc23f6a2212dcdc868308c52" },
@@ -11,7 +10,6 @@
   "conform.nvim": { "branch": "master", "commit": "372fc521f8421b7830ea6db4d6ea3bae1c77548c" },
   "fd": { "branch": "master", "commit": "efe499ac0dfc193a34d065e4d3e71d17f4646e9b" },
   "friendly-snippets": { "branch": "main", "commit": "572f5660cf05f8cd8834e096d7b4c921ba18e175" },
-  "frizbee": { "branch": "main", "commit": "1802a515b796d53ab6eca9e98247bd57af3c2666" },
   "hover.nvim": { "branch": "main", "commit": "1a8282fe3933c0c6f2769d7d6a9b7bab49984aee" },
   "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
   "lazydev.nvim": { "branch": "main", "commit": "2367a6c0a01eb9edb0464731cc0fb61ed9ab9d2c" },
@@ -33,6 +31,7 @@
   "plenary.nvim": { "branch": "master", "commit": "857c5ac632080dba10aae49dba902ce3abf91b35" },
   "refactoring.nvim": { "branch": "master", "commit": "2be7ea3f10b7e59658f5abf6dffc50b5d61964d6" },
   "ripgrep": { "branch": "master", "commit": "6dfaec03e830892e787686917509c17860456db1" },
+  "springboot-nvim": { "branch": "main", "commit": "43567bc417c5767bd6d5eb8ff9f8ba8e98d6a9c2" },
   "tailwindcss-colorizer-cmp.nvim": { "branch": "main", "commit": "3d3cd95e4a4135c250faf83dd5ed61b8e5502b86" },
   "tailwindcss-colors.nvim": { "branch": "main", "commit": "ccb5be2f84673c1a0ef90a0c0a76733e85e5265b" },
   "telescope-fzy-native.nvim": { "branch": "master", "commit": "282f069504515eec762ab6d6c89903377252bf5b" },

@@ -13,6 +13,7 @@ return {
 				"lua_ls",
 				"ts_ls",
 				"tailwindcss",
+				"jdtls",
 			},
 		})
 		require("mason-tool-installer").setup({
