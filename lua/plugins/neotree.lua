@@ -84,7 +84,7 @@ return {
 			},
 			window = {
 				position = "left",
-				width = 38,
+				width = 45,
 			},
 			filesystem = {
 				hide_gitignore = true,

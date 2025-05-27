@@ -9,6 +9,7 @@ return {
 			json = { "biome" },
 			css = { "biome" },
 			python = { "ruff" },
+			htmlangular = { "biome" },
 		}
 	end,
 }

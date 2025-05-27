@@ -19,7 +19,18 @@ return {
 		require("luasnip.loaders.from_vscode").lazy_load()
 		cmp.setup({
 			formatting = {
-				format = require("tailwindcss-colorizer-cmp").formatter,
+				format = lspkind.cmp_format({
+					mode = "symbol",
+					maxwidth = {
+						menu = 50,
+						abbr = 50,
+					},
+					ellipsis_char = "...",
+					show_labelDetails = true,
+					before = function(entry, vim_item)
+						return vim_item
+					end,
+				}),
 			},
 			snippet = {
 				expand = function(args)

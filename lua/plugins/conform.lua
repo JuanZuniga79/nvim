@@ -11,6 +11,7 @@ return {
 				json = { "biome" },
 				css = { "biome" },
 				graphql = { "biome" },
+				htmlangular = { "biome" },
 				python = function(bufnr)
 					if conform.get_formatter_info("ruff_format", bufnr).available then
 						return { "ruff_format" }
