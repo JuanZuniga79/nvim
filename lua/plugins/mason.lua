@@ -14,6 +14,8 @@ return {
 				"ts_ls",
 				"tailwindcss",
 				"jdtls",
+				"taplo",
+				"pyright",
 			},
 		})
 		require("mason-tool-installer").setup({
@@ -22,6 +24,7 @@ return {
 				"selene",
 				"biome",
 				"codespell",
+				"ruff",
 			},
 		})
 	end,
